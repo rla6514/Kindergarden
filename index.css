@@ -1,0 +1,10 @@
+html.body{
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+
+.BIK{
+    background-image: url(banner.jpg);
+    max-width: 100px;
+}
